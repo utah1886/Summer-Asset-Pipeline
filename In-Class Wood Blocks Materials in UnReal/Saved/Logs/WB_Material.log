@@ -6820,3 +6820,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.27-06.59.24:610][317]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
 [2019.05.27-06.59.24:610][317]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB28704ED-4C43-A91E-A90B-968B35F0AA0E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
 [2019.05.27-06.59.24:645][317]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.05.27-06.59.24:670][317]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.05.27-06.59.24:673][317]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.05.27-06.59.24:679][317]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.05.27-06.59.24:680][317]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.05.27-06.59.24:680][317]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.05.27-06.59.24:692][317]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.05.27-06.59.24:728][317]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.05.27-06.59.24:788][317]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.05.27-06.59.24:788][317]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.05.27-06.59.24:788][317]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.05.27-06.59.24:788][317]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.05.27-06.59.24:805][317]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.05.27-06.59.24:883][317]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.05.27-06.59.24:883][317]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.05.27-06.59.24:890][317]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.05.27-06.59.24:890][317]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.05.27-06.59.24:890][317]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.05.27-06.59.24:890][317]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.05.27-06.59.24:895][317]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.05.27-06.59.24:895][317]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.05.27-06.59.24:895][317]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.05.27-06.59.24:895][317]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.05.27-06.59.24:895][317]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.05.27-06.59.24:931][317]LogExit: Exiting.
+[2019.05.27-06.59.24:950][317]Log file closed, 05/27/19 00:59:24
